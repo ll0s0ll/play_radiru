@@ -12,4 +12,5 @@ $ ./play_radiru.sh tokyo r1
 音が出るまで数秒から数十秒かかります。  
 内部でffmpge,mplayerを呼び出しています。別途ご用意ください。
 
-Last update 2018/03/09
+## SEE ALSO
+[radiru_for_timemanager](https://github.com/ll0s0ll/radiru_for_timemanager)
